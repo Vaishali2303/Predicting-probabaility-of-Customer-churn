@@ -1,1 +1,1 @@
-# Predicting-probabaility-of-Employee-churn
+# Predicting-probabaility-of-Customer-churn
